@@ -1,9 +1,9 @@
-streamlit
+streamlit>=1.32.0
 scikit-learn==1.6.1
 joblib==1.5.0
 numpy==2.2.3
-pandas
-plotly
-imblearn
-datasets
-huggingface-hub
+pandas>=2.0.0
+plotly>=5.18.0
+imbalanced-learn>=0.12.0
+datasets>=2.18.0
+huggingface-hub>=0.22.0
