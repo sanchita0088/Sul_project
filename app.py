@@ -1069,7 +1069,6 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 2rem 0; color: rgba(255,255,255,0.6);">
         <p><strong>DiabetesAI Pro</strong> - Advanced Machine Learning Risk Assessment Platform</p>
-        
         <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.2);">
             <p style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">
                 © 2026 <strong>Sanchita</strong> | Chitkara University
