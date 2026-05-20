@@ -1069,10 +1069,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 2rem 0; color: rgba(255,255,255,0.6);">
         <p><strong>DiabetesAI Pro</strong> - Advanced Machine Learning Risk Assessment Platform</p>
-        <p>🤖 Powered by Scikit-learn • ☁️ Data stored on Hugging Face • 🔒 Privacy-focused design</p>
-        <p style="font-size: 0.8rem; margin-top: 1rem;">
-            ⚠️ <em>This tool is for educational and screening purposes only. Always consult healthcare professionals for medical decisions.</em>
-        </p>
+        
         <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.2);">
             <p style="font-size: 0.9rem; color: rgba(255,255,255,0.8);">
                 © 2026 <strong>Sanchita</strong> | Chitkara University
