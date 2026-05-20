@@ -7,9 +7,12 @@ Professional Diabetes Risk Assessment App
 - Advanced styling and custom components
 """
 
+import time
 import logging
 from datetime import datetime
 
+import pandas as pd
+import plotly.express as px
 import streamlit as st
 
 from backend import (
