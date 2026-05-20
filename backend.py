@@ -18,7 +18,7 @@ MODEL_FILE = MODEL_DIR / "diabetes.sav"
 SCALER_FILE = MODEL_DIR / "scaler.sav"
 MEDIANS_FILE = MODEL_DIR / "medians.sav"
 
-HF_USERNAME = "LovnishVerma"
+HF_USERNAME = "Sanchita"
 DATASET_REPO = f"{HF_USERNAME}/diabetes-logs"
 HF_TOKEN = os.getenv("HF_TOKEN")
 

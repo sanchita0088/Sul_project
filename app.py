@@ -38,23 +38,6 @@ from ui import (
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
-
-# -----------------------
-# Original Backend Functions (unchanged)
-# -----------------------
-
-
-
-
-
-
-
-
-# -----------------------
-# Enhanced Main Application
-# -----------------------
-
-
 def main():
     # Initialize session state
     if "repo_setup" not in st.session_state:
